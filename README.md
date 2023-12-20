@@ -6,5 +6,5 @@
 
 [Chrome DevTools - Crash Course](https://youtu.be/gTVpBbFWry8)
 
-[Shortcuts](https://developer.chrome.com/docs/devtools/shortcuts?hl=zh-cn)
+[Docs](https://developer.chrome.com/docs/devtools?hl=zh-cn)
 
