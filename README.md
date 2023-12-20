@@ -5,3 +5,6 @@
 [21+ Browser Dev Tools & Tips You Need To Know](https://www.youtube.com/watch?v=TcTSqhpm80Y)
 
 [Chrome DevTools - Crash Course](https://youtu.be/gTVpBbFWry8)
+
+[Shortcuts](https://developer.chrome.com/docs/devtools/shortcuts?hl=zh-cn)
+
